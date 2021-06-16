@@ -1,0 +1,93 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'tr' Physical Memory: 6023 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/CJ/Documents/GitHub/2Ddeniyoruz/2dGitHubProje
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49778
+Successfully changed project path to: C:/Users/CJ/Documents/GitHub/2Ddeniyoruz/2dGitHubProje
+C:/Users/CJ/Documents/GitHub/2Ddeniyoruz/2dGitHubProje
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 236.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CJ/Documents/GitHub/2Ddeniyoruz/2dGitHubProje/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     986 MB
+    Driver:   25.21.14.2531
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007064 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 258.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.816 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006846 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 244.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.813 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.8 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3827.
+Total: 7.631400 ms (FindLiveObjects: 0.628500 ms CreateObjectMapping: 0.610400 ms MarkObjects: 6.275500 ms  DeleteObjects: 0.113200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/at0mm-removebg-preview.png
+  artifactKey: Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/at0mm-removebg-preview.png using Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591ffa9acfa6b81ac23bbd2ccf6d274d') in 0.491714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.742922 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b09dc98b8bc7ebd37f829f08d05ede') in 0.020958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.714698 seconds.
+  path: Assets/at0mm-removebg-preview.png
+  artifactKey: Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/at0mm-removebg-preview.png using Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d02567633b41d619b21706d7aa0961c') in 0.037118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.117027 seconds.
+  path: Assets/at0mm-removebg-preview.png
+  artifactKey: Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/at0mm-removebg-preview.png using Guid(72612b00a1c8d5c4fa59f177b60a249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d24de95269bbd40dfa7fdc5478b0dca') in 0.034086 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
